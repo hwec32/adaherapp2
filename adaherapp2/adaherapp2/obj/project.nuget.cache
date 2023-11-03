@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NKcaVCHIkIFHAtskZ940htozyygzreTx0B6Thf/le6KfGyUW9BqTIUMYsyjpCDPD+4sHdXNRXSH3BxwP8fKNag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hwec32\\Source\\Repos\\adaherapp2\\adaherapp2\\adaherapp2\\adaherapp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hwec32\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
